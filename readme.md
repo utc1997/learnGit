@@ -1,4 +1,4 @@
 this is a new file testing git and learn too
-so new line added
+so new line added space added
 this is new line to test amend function
-testing branch change to sonutest
+testing branch change to sonutestlocal
